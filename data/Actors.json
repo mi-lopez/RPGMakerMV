@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":0,"characterName":"Nature","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$personaje2","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"retrato","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":0,"characterName":"$perro","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"perrin-retrato2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Frank","nickname":"","note":"","profile":""}
 ]
